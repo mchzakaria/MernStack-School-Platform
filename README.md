@@ -21,7 +21,7 @@ This project was collaboratively developed with my Friend `Ayman Gassi`
 ## Getting Started
 1. Clone this repository :
 ```bash
-git clone https://github.com/ayman-gassi/MernStack-School-Platform.git
+git clone https://github.com/mchzakaria/MernStack-School-Platform.git
 ```
 
 ## Server Setup
